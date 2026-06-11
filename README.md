@@ -117,12 +117,6 @@ pyinstaller --clean --noconsole --uac-admin --icon=assets/icon.ico --add-data "u
 3. **硬件流量提醒**：当勾选手机无线热点参与加速时，请密切注意移动数据流量消耗。
 
 ---
-
-## 📄 开源协议
-
-本项目基于 **LGPL** 开源协议。这意味着您可以自由地使用、修改源码，甚至将其用于闭源商业软件打包分发，唯独在修改本工具核心源码本身时需要开源修改部分。对独立开发者极其友好。
-
----
 ---
 
 # 🇺🇸 NetBooster - English
@@ -238,7 +232,3 @@ pyinstaller --clean --noconsole --uac-admin --icon=assets/icon.ico --add-data "u
 3. **Hardware Data Warning**: Please pay close attention to your mobile data usage when checking cellular hotspots to participate in acceleration.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **LGPL** License. This means you are free to use, modify the source code, and even use it for closed-source commercial software packaging and distribution. The only requirement is that when you modify the core source code of this tool itself, you need to open-source the modified part. Extremely friendly to independent developers.

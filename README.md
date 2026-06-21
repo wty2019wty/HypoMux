@@ -170,6 +170,12 @@ HypoMux 是一个完全出于技术热情、由作者在业余时间独立开发
 * **关于功能走向**：本项目有着清晰的技术主线和架构边界。所有的赞赏均属于无偿赠予，**赞赏行为不等同于商业定制，亦无法直接决定或影响未来新功能的开发走向**。
 * **关于免责**：本项目依据 **AGPL-3.0** 协议开源，软件按“原样”提供，作者不承担因使用本工具导致的任何直接或间接损失。
 
+### 🏆 鸣谢与支持名单 (Sponsors)
+
+感谢以下所有为 HypoMux 注入能量的支持者：
+
+<a href="https://github.com/Hypostasis-Cat/HypoMux"><img src="https://img.shields.io/badge/鲸鱼-☕请喝咖啡-orange?style=for-the-badge&logo=coffeescript&logoColor=white" /></a>
+
 再次感谢你对开源社区和独立开发者的尊重与支持！
 
 ## 📄 开源协议
